@@ -1,1 +1,1 @@
-Project for Software Design, Fall 2024, at Trinity College (Hartford)
+My homework! The file can be located as Class.kt

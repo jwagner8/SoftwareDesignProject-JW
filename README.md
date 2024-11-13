@@ -1,1 +1,1 @@
-Updated for HR project!
+OllamaClient.kt is under trincoll! Thanks!
